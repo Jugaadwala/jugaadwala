@@ -1,0 +1,22 @@
+{
+    "name": "jugaadwala",
+    "version": "0.0.1",
+    "private": false,
+    "scripts": {
+        "start": "node app"
+    },
+    "dependencies": {
+        "grunt-karma": "~0.4.5"
+    },
+    "devDependencies": {
+        "express": "3.1.0",
+        "domain": "*",
+        "ejs": "0.8.4",
+        "aws-sdk": "2.0.15",
+        "nconf": "0.6.8",
+        "mongodb": "1.4.5"
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}
